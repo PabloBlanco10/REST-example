@@ -1,2 +1,2 @@
-# REST-example
-REST example server - client
+# REST - example
+REST example server - client in java.
